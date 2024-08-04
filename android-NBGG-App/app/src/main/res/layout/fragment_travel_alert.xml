@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TravelAlertFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="º 국명 : "
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txtCountryKorName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="57dp"
+                android:layout_marginRight="5dp"
+                android:layout_toRightOf="@id/textView12"
+                android:fontFamily="@font/poor_story_regular"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txtCountryEngName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="57dp"
+                android:layout_marginRight="20dp"
+                android:layout_toRightOf="@id/txtCountryKorName"
+                android:fontFamily="@font/poor_story_regular"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imgCountryFlag"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                tools:src="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView12"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="º 대륙 : "
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txtContinent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtCountryEngName"
+                android:layout_marginTop="37dp"
+                android:layout_toRightOf="@id/textView16"
+                android:fontFamily="@font/poor_story_regular"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView16"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="º 여행 경보 지도"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_below="@id/textView19"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/textView20"
+                android:src="@drawable/circle_blue" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView18"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="º 여행경보 단계"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_below="@id/textView20"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/textView21"
+                android:src="@drawable/circle_yellow" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView19"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="• 남색 경보(여행유의)"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_below="@id/textView21"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/textView22"
+                android:src="@drawable/circle_red" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView20"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="• 황색 경보(여행자제)"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_below="@id/textView22"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/textView23"
+                android:src="@drawable/circle_black" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView21"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="• 적색 경보(출국권고)"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView22"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="• 흑색 경보(여행금지)"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView23"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="• 특별 여행 주의보"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_below="@id/textView23"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/textView24"
+                android:src="@drawable/circle_sp" />
+
+            <ImageView
+                android:id="@+id/imgDangMap"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_below="@id/textView24"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                tools:src="@tools:sample/backgrounds/scenic" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgDangMap"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="º 지역"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imgMap"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_below="@id/textView25"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:scaleType="centerCrop"
+                tools:src="@tools:sample/backgrounds/scenic" />
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+
+</FrameLayout>

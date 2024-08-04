@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EntryPermitFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 국명 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtCountryKorName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="57dp"
+            android:layout_toRightOf="@id/textView10"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtCountryEngName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="57dp"
+            android:layout_toRightOf="@id/txtCountryKorName"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imgCountryFlag"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="15dp"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView10"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 여권 소지 여부 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtHaveYn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView10"
+            android:layout_marginTop="57dp"
+            android:layout_toRightOf="@id/textView17"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView17"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 일반여권 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtGnrlPsptVisaYn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView17"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/textView27"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtGnrlPsptVisaCn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView17"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/txtGnrlPsptVisaYn"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView27"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 관용여권 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtOfclPsptVisaYn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView27"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/textView30"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtOfclPsptVisaCn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView27"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/txtOfclPsptVisaYn"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView30"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 외교관여권 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtDplmtPsptVisaYn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView30"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/textView33"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtDplmtPsptVisaCn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView30"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/txtDplmtPsptVisaYn"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView33"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 무비자 입국근거내용 : "
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtNvisaEntryEvdcCn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView33"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="22dp"
+            android:layout_toRightOf="@id/textView36"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView36"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:text="º 비고"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtRemark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView38"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/poor_story_regular"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+</FrameLayout>

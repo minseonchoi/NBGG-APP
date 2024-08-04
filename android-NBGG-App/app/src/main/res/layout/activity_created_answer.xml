@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreatedAnswerActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/background_green">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView35"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="@font/poor_story_regular"
+                        android:gravity="center"
+                        android:text="입국 심사 번역"
+                        android:textColor="#000000"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/textView37"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="20dp"
+                        android:fontFamily="@font/poor_story_regular"
+                        android:gravity="center"
+                        android:text="미리 번역된 답변을 캡쳐해서 미리 저장해요 :)\n답변을 만들고 싶은 질문지를 선택해주세요"
+                        android:textColor="#000000"
+                        android:textSize="20sp" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewChoiceQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/cardView">
+
+                <EditText
+                    android:id="@+id/editChoiceQuestion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:focusable="false"
+                    android:fontFamily="@font/poor_story_regular"
+                    android:hint="질문 선택하기"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:textSize="18sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/textView41"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/cardViewChoiceQuestion"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="답변을 작성해주세요."
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/editAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@id/textView41"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFF"
+                android:ems="10"
+                android:fontFamily="@font/poor_story_regular"
+                android:gravity="center_vertical"
+                android:inputType="text"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editAnswer"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="답변 번역하기"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView42"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/poor_story_regular"
+                android:text="여행하시는 국가의 언어를 선택해주세요 :)"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewChoiceLanguage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView43"
+                android:layout_marginTop="5dp">
+
+                <EditText
+                    android:id="@+id/editChoiceLanguage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:focusable="false"
+                    android:fontFamily="@font/poor_story_regular"
+                    android:hint="언어 선택하기"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:textSize="18sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <Button
+                android:id="@+id/btnTranslate"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/cardViewChoiceLanguage"
+                android:layout_marginLeft="10dp"
+                android:backgroundTint="#4CAF50"
+                android:text="번역하기"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imgSpeak"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_below="@id/cardViewChoiceLanguage"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                app:srcCompat="@drawable/outline_volume_up_24" />
+
+            <TextView
+                android:id="@+id/txtTranslateAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@id/btnTranslate"
+                android:layout_marginBottom="20dp"
+                android:background="#FFFFFF"
+                android:backgroundTint="#FFFFFF"
+                android:fontFamily="@font/poor_story_regular"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

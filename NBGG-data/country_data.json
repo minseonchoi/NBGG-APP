@@ -1,0 +1,1068 @@
+{
+"Sheet1":[
+ {
+  "3자리코드": "GHA",
+  "한글명": "가나",
+  "영문명": "GHANA",
+  "2자리코드": "GH",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/15\/20220318_161935687.gif"
+ },
+ {
+  "3자리코드": "GAB",
+  "한글명": "가봉",
+  "영문명": "GABON",
+  "2자리코드": "GA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/16\/20220318_161654097.gif"
+ },
+ {
+  "3자리코드": "GUY",
+  "한글명": "가이아나",
+  "영문명": "GUYANA",
+  "2자리코드": "GY",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/17\/20220318_162257006.gif"
+ },
+ {
+  "3자리코드": "GMB",
+  "한글명": "감비아",
+  "영문명": "GAMBIA",
+  "2자리코드": "GM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/18\/20220318_161955406.gif"
+ },
+ {
+  "3자리코드": "GTM",
+  "한글명": "과테말라",
+  "영문명": "GUATEMALA",
+  "2자리코드": "GT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/21\/20220318_162216873.gif"
+ },
+ {
+  "3자리코드": "GRD",
+  "한글명": "그레나다",
+  "영문명": "GRENADA",
+  "2자리코드": "GD",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/23\/20220318_161743288.gif"
+ },
+ {
+  "3자리코드": "GRC",
+  "한글명": "그리스",
+  "영문명": "GREECE",
+  "2자리코드": "GR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/24\/20220720_160223089.gif"
+ },
+ {
+  "3자리코드": "GRL",
+  "한글명": "그린란드",
+  "영문명": "GREENLAND",
+  "2자리코드": "GL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/25\/20220224_233512915.gif"
+ },
+ {
+  "3자리코드": "GIN",
+  "한글명": "기니",
+  "영문명": "GUINEA",
+  "2자리코드": "GN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/26\/20220318_162017525.gif"
+ },
+ {
+  "3자리코드": "GNB",
+  "한글명": "기니비사우",
+  "영문명": "GUINEA-BISSAU",
+  "2자리코드": "GW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/27\/20220318_162237661.gif"
+ },
+ {
+  "3자리코드": "NRU",
+  "한글명": "나우루",
+  "영문명": "NAURU",
+  "2자리코드": "NR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/29\/20220318_164920455.gif"
+ },
+ {
+  "3자리코드": "NGA",
+  "한글명": "나이지리아",
+  "영문명": "NIGERIA",
+  "2자리코드": "NG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/30\/20220318_164733974.gif"
+ },
+ {
+  "3자리코드": "NLD",
+  "한글명": "네덜란드",
+  "영문명": "NETHERLANDS",
+  "2자리코드": "NL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/33\/20220318_164807920.gif"
+ },
+ {
+  "3자리코드": "NOR",
+  "한글명": "노르웨이",
+  "영문명": "NORWAY",
+  "2자리코드": "NO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/36\/20220318_164831540.gif"
+ },
+ {
+  "3자리코드": "NZL",
+  "한글명": "뉴질랜드",
+  "영문명": "NEW ZEALAND",
+  "2자리코드": "NZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/38\/20220318_165002661.gif"
+ },
+ {
+  "3자리코드": "NIU",
+  "한글명": "니우에",
+  "영문명": "NIUE",
+  "2자리코드": "NU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/39\/20220318_164944736.png"
+ },
+ {
+  "3자리코드": "NER",
+  "한글명": "니제르",
+  "영문명": "NIGER",
+  "2자리코드": "NE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/40\/20220318_164713224.gif"
+ },
+ {
+  "3자리코드": "NIC",
+  "한글명": "니카라과",
+  "영문명": "NICARAGUA",
+  "2자리코드": "NI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/41\/20220318_164751555.gif"
+ },
+ {
+  "3자리코드": "DNK",
+  "한글명": "덴마크",
+  "영문명": "DENMARK",
+  "2자리코드": "DK",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/42\/20220318_160957995.gif"
+ },
+ {
+  "3자리코드": "DEU",
+  "한글명": "독일",
+  "영문명": "GERMANY",
+  "2자리코드": "DE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/45\/20220318_160907982.gif"
+ },
+ {
+  "3자리코드": "LBR",
+  "한글명": "라이베리아",
+  "영문명": "LIBERIA",
+  "2자리코드": "LR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/48\/20220318_163516044.gif"
+ },
+ {
+  "3자리코드": "LVA",
+  "한글명": "라트비아",
+  "영문명": "LATVIA",
+  "2자리코드": "LV",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/49\/20220318_163629695.gif"
+ },
+ {
+  "3자리코드": "LBN",
+  "한글명": "레바논",
+  "영문명": "LEBANON",
+  "2자리코드": "LB",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/51\/20220318_163352250.gif"
+ },
+ {
+  "3자리코드": "LSO",
+  "한글명": "레소토",
+  "영문명": "LESOTHO",
+  "2자리코드": "LS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/52\/20220318_163534027.gif"
+ },
+ {
+  "3자리코드": "ROU",
+  "한글명": "루마니아",
+  "영문명": "ROMANIA",
+  "2자리코드": "RO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/54\/20220318_165414526.gif"
+ },
+ {
+  "3자리코드": "LUX",
+  "한글명": "룩셈부르크",
+  "영문명": "LUXEMBOURG",
+  "2자리코드": "LU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/55\/20220318_163613450.gif"
+ },
+ {
+  "3자리코드": "RWA",
+  "한글명": "르완다",
+  "영문명": "RWANDA",
+  "2자리코드": "RW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/56\/20220318_165509439.gif"
+ },
+ {
+  "3자리코드": "LTU",
+  "한글명": "리투아니아",
+  "영문명": "LITHUANIA",
+  "2자리코드": "LT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/58\/20220318_163553668.gif"
+ },
+ {
+  "3자리코드": "LIE",
+  "한글명": "리히텐슈타인",
+  "영문명": "LIECHTENSTEIN",
+  "2자리코드": "LI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/59\/20220318_163436978.gif"
+ },
+ {
+  "3자리코드": "MDG",
+  "한글명": "마다가스카르",
+  "영문명": "MADAGASCAR",
+  "2자리코드": "MG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/60\/20220318_163839431.gif"
+ },
+ {
+  "3자리코드": "MWI",
+  "한글명": "말라위",
+  "영문명": "MALAWI",
+  "2자리코드": "MW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/65\/20220318_164519041.gif"
+ },
+ {
+  "3자리코드": "MYS",
+  "한글명": "말레이시아",
+  "영문명": "MALAYSIA",
+  "2자리코드": "MY",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/66\/20220318_164600046.gif"
+ },
+ {
+  "3자리코드": "MLI",
+  "한글명": "말리",
+  "영문명": "MALI",
+  "2자리코드": "ML",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/67\/20220318_164251026.gif"
+ },
+ {
+  "3자리코드": "IMN",
+  "한글명": "맨 섬",
+  "영문명": "ISLE OF MAN",
+  "2자리코드": "IM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/68\/20220224_233515279.gif"
+ },
+ {
+  "3자리코드": "MEX",
+  "한글명": "멕시코",
+  "영문명": "MEXICO",
+  "2자리코드": "MX",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/69\/20220318_164538562.gif"
+ },
+ {
+  "3자리코드": "MCO",
+  "한글명": "모나코",
+  "영문명": "MONACO",
+  "2자리코드": "MC",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/70\/20220318_163730922.gif"
+ },
+ {
+  "3자리코드": "MAR",
+  "한글명": "모로코",
+  "영문명": "MOROCCO",
+  "2자리코드": "MA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/71\/20220318_163711153.gif"
+ },
+ {
+  "3자리코드": "MUS",
+  "한글명": "모리셔스",
+  "영문명": "MAURITIUS",
+  "2자리코드": "MU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/72\/20220318_164439925.gif"
+ },
+ {
+  "3자리코드": "MNE",
+  "한글명": "몬테네그로",
+  "영문명": "MONTENEGRO",
+  "2자리코드": "ME",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/75\/20220318_163814816.gif"
+ },
+ {
+  "3자리코드": "MSR",
+  "한글명": "몬트세랫",
+  "영문명": "MONTSERRAT",
+  "2자리코드": "MS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/76\/20220224_233515209.gif"
+ },
+ {
+  "3자리코드": "MDV",
+  "한글명": "몰디브",
+  "영문명": "MALDIVES",
+  "2자리코드": "MV",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/78\/20220318_164502026.gif"
+ },
+ {
+  "3자리코드": "MLT",
+  "한글명": "몰타",
+  "영문명": "MALTA",
+  "2자리코드": "MT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/79\/20220318_164417927.gif"
+ },
+ {
+  "3자리코드": "MNG",
+  "한글명": "몽골",
+  "영문명": "MONGOLIA",
+  "2자리코드": "MN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/80\/20220318_164338924.gif"
+ },
+ {
+  "3자리코드": "MMR",
+  "한글명": "미얀마",
+  "영문명": "MYANMAR",
+  "2자리코드": "MM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/82\/20220318_164314751.gif"
+ },
+ {
+  "3자리코드": "VUT",
+  "한글명": "바누아투",
+  "영문명": "VANUATU",
+  "2자리코드": "VU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/83\/20220318_170812151.gif"
+ },
+ {
+  "3자리코드": "BHR",
+  "한글명": "바레인",
+  "영문명": "BAHRAIN",
+  "2자리코드": "BH",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/84\/20220318_155707078.gif"
+ },
+ {
+  "3자리코드": "BRB",
+  "한글명": "바베이도스",
+  "영문명": "BARBADOS",
+  "2자리코드": "BB",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/85\/20220318_155403259.gif"
+ },
+ {
+  "3자리코드": "BHS",
+  "한글명": "바하마",
+  "영문명": "BAHAMAS",
+  "2자리코드": "BS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/87\/20220318_155924675.gif"
+ },
+ {
+  "3자리코드": "BGD",
+  "한글명": "방글라데시",
+  "영문명": "BANGLADESH",
+  "2자리코드": "BD",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/88\/20220318_155428211.gif"
+ },
+ {
+  "3자리코드": "BMU",
+  "한글명": "버뮤다",
+  "영문명": "BERMUDA",
+  "2자리코드": "BM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/89\/20220224_233514561.gif"
+ },
+ {
+  "3자리코드": "BEN",
+  "한글명": "베냉",
+  "영문명": "BENIN",
+  "2자리코드": "BJ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/90\/20220318_155757028.gif"
+ },
+ {
+  "3자리코드": "BEL",
+  "한글명": "벨기에",
+  "영문명": "BELGIUM",
+  "2자리코드": "BE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/93\/20220318_155559315.gif"
+ },
+ {
+  "3자리코드": "BLR",
+  "한글명": "벨라루스",
+  "영문명": "BELARUS",
+  "2자리코드": "BY",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/94\/20220318_160027564.gif"
+ },
+ {
+  "3자리코드": "BLZ",
+  "한글명": "벨리즈",
+  "영문명": "BELIZE",
+  "2자리코드": "BZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/95\/20220318_160049812.gif"
+ },
+ {
+  "3자리코드": "BWA",
+  "한글명": "보츠와나",
+  "영문명": "BOTSWANA",
+  "2자리코드": "BW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/97\/20220318_160006984.gif"
+ },
+ {
+  "3자리코드": "BOL",
+  "한글명": "볼리비아",
+  "영문명": "BOLIVIA",
+  "2자리코드": "BO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/98\/20220318_155840717.gif"
+ },
+ {
+  "3자리코드": "BDI",
+  "한글명": "부룬디",
+  "영문명": "BURUNDI",
+  "2자리코드": "BI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/99\/20220318_155734115.gif"
+ },
+ {
+  "3자리코드": "BFA",
+  "한글명": "부르키나파소",
+  "영문명": "BURKINA FASO",
+  "2자리코드": "BF",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/100\/20220318_155621283.gif"
+ },
+ {
+  "3자리코드": "BTN",
+  "한글명": "부탄",
+  "영문명": "BHUTAN",
+  "2자리코드": "BT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/101\/20220318_155946652.gif"
+ },
+ {
+  "3자리코드": "BGR",
+  "한글명": "불가리아",
+  "영문명": "BULGARIA",
+  "2자리코드": "BG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/104\/20220318_155644008.gif"
+ },
+ {
+  "3자리코드": "BRA",
+  "한글명": "브라질",
+  "영문명": "BRAZIL",
+  "2자리코드": "BR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/105\/20220318_155901021.gif"
+ },
+ {
+  "3자리코드": "WSM",
+  "한글명": "사모아",
+  "영문명": "SAMOA",
+  "2자리코드": "WS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/107\/20220318_170833187.gif"
+ },
+ {
+  "3자리코드": "SAU",
+  "한글명": "사우디아라비아",
+  "영문명": "SAUDI ARABIA",
+  "2자리코드": "SA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/108\/20220318_165528053.gif"
+ },
+ {
+  "3자리코드": "SMR",
+  "한글명": "산마리노",
+  "영문명": "SAN MARINO",
+  "2자리코드": "SM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/111\/20220318_165809508.gif"
+ },
+ {
+  "3자리코드": "SEN",
+  "한글명": "세네갈",
+  "영문명": "SENEGAL",
+  "2자리코드": "SN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/114\/20220318_165832649.gif"
+ },
+ {
+  "3자리코드": "SRB",
+  "한글명": "세르비아",
+  "영문명": "SERBIA",
+  "2자리코드": "RS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/115\/20220318_165434935.gif"
+ },
+ {
+  "3자리코드": "SYC",
+  "한글명": "세이셸",
+  "영문명": "SEYCHELLES",
+  "2자리코드": "SC",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/116\/20220318_165605857.gif"
+ },
+ {
+  "3자리코드": "SOM",
+  "한글명": "소말리아",
+  "영문명": "SOMALIA",
+  "2자리코드": "SO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/121\/20220318_165847410.gif"
+ },
+ {
+  "3자리코드": "SDN",
+  "한글명": "수단",
+  "영문명": "SUDAN",
+  "2자리코드": "SD",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/123\/20220318_165622650.gif"
+ },
+ {
+  "3자리코드": "SUR",
+  "한글명": "수리남",
+  "영문명": "SURINAME",
+  "2자리코드": "SR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/124\/20220318_165905843.gif"
+ },
+ {
+  "3자리코드": "LKA",
+  "한글명": "스리랑카",
+  "영문명": "SRI LANKA",
+  "2자리코드": "LK",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/125\/20220318_163456971.gif"
+ },
+ {
+  "3자리코드": "SWE",
+  "한글명": "스웨덴",
+  "영문명": "SWEDEN",
+  "2자리코드": "SE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/126\/20220318_165639907.gif"
+ },
+ {
+  "3자리코드": "ESP",
+  "한글명": "스페인",
+  "영문명": "SPAIN",
+  "2자리코드": "ES",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/128\/20220318_161418873.gif"
+ },
+ {
+  "3자리코드": "SVK",
+  "한글명": "슬로바키아",
+  "영문명": "SLOVAKIA",
+  "2자리코드": "SK",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/129\/20220318_165735565.gif"
+ },
+ {
+  "3자리코드": "SVN",
+  "한글명": "슬로베니아",
+  "영문명": "SLOVENIA",
+  "2자리코드": "SI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/130\/20220318_165717405.gif"
+ },
+ {
+  "3자리코드": "SLE",
+  "한글명": "시에라리온",
+  "영문명": "SIERRA LEONE",
+  "2자리코드": "SL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/132\/20220318_165752799.gif"
+ },
+ {
+  "3자리코드": "SGP",
+  "한글명": "싱가포르",
+  "영문명": "SINGAPORE",
+  "2자리코드": "SG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/133\/20220318_165655208.gif"
+ },
+ {
+  "3자리코드": "ABW",
+  "한글명": "아루바",
+  "영문명": "ARUBA",
+  "2자리코드": "AW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/135\/20220224_233514062.gif"
+ },
+ {
+  "3자리코드": "ARM",
+  "한글명": "아르메니아",
+  "영문명": "ARMENIA",
+  "2자리코드": "AM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/136\/20220318_154859591.gif"
+ },
+ {
+  "3자리코드": "ARG",
+  "한글명": "아르헨티나",
+  "영문명": "ARGENTINA",
+  "2자리코드": "AR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/137\/20220318_155042415.gif"
+ },
+ {
+  "3자리코드": "ISL",
+  "한글명": "아이슬란드",
+  "영문명": "ICELAND",
+  "2자리코드": "IS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/138\/20220318_162816057.gif"
+ },
+ {
+  "3자리코드": "HTI",
+  "한글명": "아이티",
+  "영문명": "HAITI",
+  "2자리코드": "HT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/139\/20220318_162444377.gif"
+ },
+ {
+  "3자리코드": "IRL",
+  "한글명": "아일랜드",
+  "영문명": "IRELAND",
+  "2자리코드": "IE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/140\/20220318_162604484.gif"
+ },
+ {
+  "3자리코드": "AZE",
+  "한글명": "아제르바이잔",
+  "영문명": "AZERBAIJAN",
+  "2자리코드": "AZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/141\/20220318_155301025.gif"
+ },
+ {
+  "3자리코드": "AFG",
+  "한글명": "아프가니스탄",
+  "영문명": "AFGHANISTAN",
+  "2자리코드": "AF",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/142\/20220318_154306906.gif"
+ },
+ {
+  "3자리코드": "AND",
+  "한글명": "안도라",
+  "영문명": "ANDORRA",
+  "2자리코드": "AD",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/143\/20220318_154456298.gif"
+ },
+ {
+  "3자리코드": "ALB",
+  "한글명": "알바니아",
+  "영문명": "ALBANIA",
+  "2자리코드": "AL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/144\/20220322_100356049.gif"
+ },
+ {
+  "3자리코드": "DZA",
+  "한글명": "알제리",
+  "영문명": "ALGERIA",
+  "2자리코드": "DZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/145\/20220318_161209334.gif"
+ },
+ {
+  "3자리코드": "AGO",
+  "한글명": "앙골라",
+  "영문명": "ANGOLA",
+  "2자리코드": "AO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/146\/20220318_155000833.gif"
+ },
+ {
+  "3자리코드": "AIA",
+  "한글명": "앵귈라",
+  "영문명": "ANGUILLA",
+  "2자리코드": "AI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/148\/20220224_233514186.gif"
+ },
+ {
+  "3자리코드": "ERI",
+  "한글명": "에리트레아",
+  "영문명": "ERITREA",
+  "2자리코드": "ER",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/149\/20220318_161350250.gif"
+ },
+ {
+  "3자리코드": "EST",
+  "한글명": "에스토니아",
+  "영문명": "ESTONIA",
+  "2자리코드": "EE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/151\/20220318_161257392.gif"
+ },
+ {
+  "3자리코드": "ECU",
+  "한글명": "에콰도르",
+  "영문명": "ECUADOR",
+  "2자리코드": "EC",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/152\/20220318_161233228.gif"
+ },
+ {
+  "3자리코드": "SLV",
+  "한글명": "엘살바도르",
+  "영문명": "EL SALVADOR",
+  "2자리코드": "SV",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/154\/20220318_170034642.bmp"
+ },
+ {
+  "3자리코드": "GBR",
+  "한글명": "영국",
+  "영문명": "UNITED KINGDOM",
+  "2자리코드": "GB",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/155\/20220318_161717544.gif"
+ },
+ {
+  "3자리코드": "OMN",
+  "한글명": "오만",
+  "영문명": "OMAN",
+  "2자리코드": "OM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/160\/20220318_165025480.gif"
+ },
+ {
+  "3자리코드": "AUT",
+  "한글명": "오스트리아",
+  "영문명": "AUSTRIA",
+  "2자리코드": "AT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/161\/20220318_155125077.gif"
+ },
+ {
+  "3자리코드": "HND",
+  "한글명": "온두라스",
+  "영문명": "HONDURAS",
+  "2자리코드": "HN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/162\/20220323_174947970.jpg"
+ },
+ {
+  "3자리코드": "JOR",
+  "한글명": "요르단",
+  "영문명": "JORDAN",
+  "2자리코드": "JO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/164\/20220318_162932491.gif"
+ },
+ {
+  "3자리코드": "UGA",
+  "한글명": "우간다",
+  "영문명": "UGANDA",
+  "2자리코드": "UG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/165\/20220318_170547309.gif"
+ },
+ {
+  "3자리코드": "URY",
+  "한글명": "우루과이",
+  "영문명": "URUGUAY",
+  "2자리코드": "UY",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/166\/20220318_170622175.gif"
+ },
+ {
+  "3자리코드": "UZB",
+  "한글명": "우즈베키스탄",
+  "영문명": "UZBEKISTAN",
+  "2자리코드": "UZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/167\/20220318_170638365.gif"
+ },
+ {
+  "3자리코드": "UKR",
+  "한글명": "우크라이나",
+  "영문명": "UKRAINE",
+  "2자리코드": "UA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/168\/20220729_092922428.gif"
+ },
+ {
+  "3자리코드": "IRQ",
+  "한글명": "이라크",
+  "영문명": "IRAQ",
+  "2자리코드": "IQ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/169\/20220318_162732536.gif"
+ },
+ {
+  "3자리코드": "IRN",
+  "한글명": "이란",
+  "영문명": "IRAN",
+  "2자리코드": "IR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/170\/20220318_162755203.gif"
+ },
+ {
+  "3자리코드": "ISR",
+  "한글명": "이스라엘",
+  "영문명": "ISRAEL",
+  "2자리코드": "IL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/171\/20220318_162634203.gif"
+ },
+ {
+  "3자리코드": "EGY",
+  "한글명": "이집트",
+  "영문명": "EGYPT",
+  "2자리코드": "EG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/172\/20220318_161328692.gif"
+ },
+ {
+  "3자리코드": "IND",
+  "한글명": "인도",
+  "영문명": "INDIA",
+  "2자리코드": "IN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/174\/20220318_162705650.gif"
+ },
+ {
+  "3자리코드": "IDN",
+  "한글명": "인도네시아",
+  "영문명": "INDONESIA",
+  "2자리코드": "ID",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/175\/20220318_162536716.gif"
+ },
+ {
+  "3자리코드": "JPN",
+  "한글명": "일본",
+  "영문명": "JAPAN",
+  "2자리코드": "JP",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/176\/20220318_162955741.gif"
+ },
+ {
+  "3자리코드": "JAM",
+  "한글명": "자메이카",
+  "영문명": "JAMAICA",
+  "2자리코드": "JM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/177\/20220318_162858284.gif"
+ },
+ {
+  "3자리코드": "ZMB",
+  "한글명": "잠비아",
+  "영문명": "ZAMBIA",
+  "2자리코드": "ZM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/178\/20220318_170941997.gif"
+ },
+ {
+  "3자리코드": "GEO",
+  "한글명": "조지아",
+  "영문명": "GEORGIA",
+  "2자리코드": "GE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/181\/20220318_161818196.gif"
+ },
+ {
+  "3자리코드": "DJI",
+  "한글명": "지부티",
+  "영문명": "DJIBOUTI",
+  "2자리코드": "DJ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/184\/20220318_160928466.gif"
+ },
+ {
+  "3자리코드": "GIB",
+  "한글명": "지브롤터",
+  "영문명": "GIBRALTAR",
+  "2자리코드": "GI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/185\/20220224_233513712.gif"
+ },
+ {
+  "3자리코드": "ZWE",
+  "한글명": "짐바브웨",
+  "영문명": "ZIMBABWE",
+  "2자리코드": "ZW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/186\/20220318_171000065.gif"
+ },
+ {
+  "3자리코드": "TCD",
+  "한글명": "차드",
+  "영문명": "CHAD",
+  "2자리코드": "TD",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/187\/20220318_170138134.gif"
+ },
+ {
+  "3자리코드": "CHL",
+  "한글명": "칠레",
+  "영문명": "CHILE",
+  "2자리코드": "CL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/189\/20220318_160418259.gif"
+ },
+ {
+  "3자리코드": "CMR",
+  "한글명": "카메룬",
+  "영문명": "CAMEROON",
+  "2자리코드": "CM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/190\/20220318_160445855.gif"
+ },
+ {
+  "3자리코드": "CPV",
+  "한글명": "카보베르데",
+  "영문명": "CAPE VERDE",
+  "2자리코드": "CV",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/191\/20220318_160712353.gif"
+ },
+ {
+  "3자리코드": "KAZ",
+  "한글명": "카자흐스탄",
+  "영문명": "KAZAKHSTAN",
+  "2자리코드": "KZ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/192\/20220318_163310295.gif"
+ },
+ {
+  "3자리코드": "QAT",
+  "한글명": "카타르",
+  "영문명": "QATAR",
+  "2자리코드": "QA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/193\/20220318_165353863.gif"
+ },
+ {
+  "3자리코드": "KHM",
+  "한글명": "캄보디아",
+  "영문명": "CAMBODIA",
+  "2자리코드": "KH",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/194\/20220318_163118134.jpg"
+ },
+ {
+  "3자리코드": "CAN",
+  "한글명": "캐나다",
+  "영문명": "CANADA",
+  "2자리코드": "CA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/195\/20220318_160107913.gif"
+ },
+ {
+  "3자리코드": "KEN",
+  "한글명": "케냐",
+  "영문명": "KENYA",
+  "2자리코드": "KE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/196\/20220318_163022023.png"
+ },
+ {
+  "3자리코드": "COM",
+  "한글명": "코모로",
+  "영문명": "COMOROS",
+  "2자리코드": "KM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/198\/20220318_163203199.gif"
+ },
+ {
+  "3자리코드": "CRI",
+  "한글명": "코스타리카",
+  "영문명": "COSTA RICA",
+  "2자리코드": "CR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/200\/20220329_145838618.png"
+ },
+ {
+  "3자리코드": "COL",
+  "한글명": "콜롬비아",
+  "영문명": "COLOMBIA",
+  "2자리코드": "CO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/202\/20220318_160540028.gif"
+ },
+ {
+  "3자리코드": "CUB",
+  "한글명": "쿠바",
+  "영문명": "CUBA",
+  "2자리코드": "CU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/205\/20220318_160637411.gif"
+ },
+ {
+  "3자리코드": "KWT",
+  "한글명": "쿠웨이트",
+  "영문명": "KUWAIT",
+  "2자리코드": "KW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/206\/20220318_163249035.gif"
+ },
+ {
+  "3자리코드": "HRV",
+  "한글명": "크로아티아",
+  "영문명": "CROATIA",
+  "2자리코드": "HR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/208\/20220318_162351871.gif"
+ },
+ {
+  "3자리코드": "KIR",
+  "한글명": "키리바시",
+  "영문명": "KIRIBATI",
+  "2자리코드": "KI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/210\/20220318_163139369.gif"
+ },
+ {
+  "3자리코드": "TJK",
+  "한글명": "타지키스탄",
+  "영문명": "TAJIKISTAN",
+  "2자리코드": "TJ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/212\/20220318_170239649.gif"
+ },
+ {
+  "3자리코드": "TGO",
+  "한글명": "토고",
+  "영문명": "TOGO",
+  "2자리코드": "TG",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/217\/20220318_170156335.gif"
+ },
+ {
+  "3자리코드": "TON",
+  "한글명": "통가",
+  "영문명": "TONGA",
+  "2자리코드": "TO",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/218\/20220318_170349528.gif"
+ },
+ {
+  "3자리코드": "TKM",
+  "한글명": "투르크메니스탄",
+  "영문명": "TURKMENISTAN",
+  "2자리코드": "TM",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/219\/20220318_170314338.gif"
+ },
+ {
+  "3자리코드": "TUV",
+  "한글명": "투발루",
+  "영문명": "TUVALU",
+  "2자리코드": "TV",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/220\/20220318_170446163.gif"
+ },
+ {
+  "3자리코드": "TUN",
+  "한글명": "튀니지",
+  "영문명": "TUNISIA",
+  "2자리코드": "TN",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/221\/20220318_170333269.gif"
+ },
+ {
+  "3자리코드": "PAN",
+  "한글명": "파나마",
+  "영문명": "PANAMA",
+  "2자리코드": "PA",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/223\/20220318_165042149.gif"
+ },
+ {
+  "3자리코드": "PRY",
+  "한글명": "파라과이",
+  "영문명": "PARAGUAY",
+  "2자리코드": "PY",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/224\/20220318_165336804.gif"
+ },
+ {
+  "3자리코드": "PAK",
+  "한글명": "파키스탄",
+  "영문명": "PAKISTAN",
+  "2자리코드": "PK",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/225\/20220318_165158778.gif"
+ },
+ {
+  "3자리코드": "PLW",
+  "한글명": "팔라우",
+  "영문명": "PALAU",
+  "2자리코드": "PW",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/227\/20220318_165320463.gif"
+ },
+ {
+  "3자리코드": "PSE",
+  "한글명": "팔레스타인",
+  "영문명": "PALESTINE",
+  "2자리코드": "PS",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/228\/20220318_165237143.gif"
+ },
+ {
+  "3자리코드": "PER",
+  "한글명": "페루",
+  "영문명": "PERU",
+  "2자리코드": "PE",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/229\/20220318_165102133.gif"
+ },
+ {
+  "3자리코드": "PRT",
+  "한글명": "포르투갈",
+  "영문명": "PORTUGAL",
+  "2자리코드": "PT",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/230\/20220318_165302991.gif"
+ },
+ {
+  "3자리코드": "POL",
+  "한글명": "폴란드",
+  "영문명": "POLAND",
+  "2자리코드": "PL",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/231\/20220318_165216491.png"
+ },
+ {
+  "3자리코드": "FRA",
+  "한글명": "프랑스",
+  "영문명": "FRANCE",
+  "2자리코드": "FR",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/232\/20220318_161621275.gif"
+ },
+ {
+  "3자리코드": "PYF",
+  "한글명": "프랑스령 폴리네시아",
+  "영문명": "FRENCH POLYNESIA",
+  "2자리코드": "PF",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/234\/20220224_233513129.gif"
+ },
+ {
+  "3자리코드": "FJI",
+  "한글명": "피지",
+  "영문명": "FIJI",
+  "2자리코드": "FJ",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/235\/20220318_161522119.gif"
+ },
+ {
+  "3자리코드": "FIN",
+  "한글명": "핀란드",
+  "영문명": "FINLAND",
+  "2자리코드": "FI",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/236\/20220318_161502305.gif"
+ },
+ {
+  "3자리코드": "PHL",
+  "한글명": "필리핀",
+  "영문명": "PHILIPPINES",
+  "2자리코드": "PH",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/237\/20220318_165139676.gif"
+ },
+ {
+  "3자리코드": "HUN",
+  "한글명": "헝가리",
+  "영문명": "HUNGARY",
+  "2자리코드": "HU",
+  "이미지": "https:\/\/opendata.mofa.go.kr:8444\/fileDownload\/images\/country_images\/flags\/239\/20220318_162505062.gif"
+ }
+]
+}

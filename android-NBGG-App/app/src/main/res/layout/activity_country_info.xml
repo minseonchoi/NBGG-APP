@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CountryInfoActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp">
+
+            <ImageView
+                android:id="@+id/imgSearch"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/baseline_search_24" />
+
+            <TextView
+                android:id="@+id/txtCountryKorName"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/imgSearch"
+                android:ems="10"
+                android:fontFamily="@font/poor_story_regular"
+                android:gravity="center_vertical"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/txtCountryKorName"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#DCDCDC" />
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/view"
+                android:background="@color/background_green"
+                app:tabIndicatorColor="#8BC34A"
+                app:tabSelectedTextColor="#4CAF50"
+                app:tabTextColor="#000000">
+
+                <com.google.android.material.tabs.TabItem
+                    android:id="@+id/basicInfoTab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="기본\n정보" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:id="@+id/travelAlertTab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="여행\n경보" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:id="@+id/entryPermitTap"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="입국\n허가요건" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:id="@+id/localContactTab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="현지\n연락처" />
+            </com.google.android.material.tabs.TabLayout>
+
+            <FrameLayout
+                android:id="@+id/tabContentFrame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/tabLayout">
+
+            </FrameLayout>
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
