@@ -33,21 +33,26 @@ Visual Studio Code를 사용해서 서버 개발 (Python)
 서버 아키텍처
 - AWS IAM, LAMBDA, RDS(MySQL), ECR(Docker) 로 구성했습니다. 
 
-VSC 폴더명으로 정리했습니다.
-✉︎ APP.PY
-- 환경변수 세팅
-- Entry Point. api.add_resource 입력
-- 도커사용을 위한 핸들러 코드
+구현 기능
 
-✉︎ COUNTRY.PY
-- 0
+- 입국 허가 요건 API, 현지 연락처 정보 API, 국가 기본 정보 API, 여행 경보 API
 
-✉︎ TRANSLATE.PY 
-- 0
+  - POST 메소드를 활용, 외교부의 오픈 API를 호출하여 반환받는 데이터들을 가공하여 유저가 검색한 국가의 필요한 정보들만 반환하도록 구현
+  입국 심사 질문과 답변 리스트를 가져오는 API
 
-✉︎ WEATHER.PY
-- 0
+- get 메소드를 활용, DB에 저장된 입국 심사 질문과 답변 데이터들을 반환하도록 구현
+  - 한국어 -> 외국어 번역 API
 
+- POST 메소드를 활용, AWS translate를 사용하여 유저가 입력한 텍스트를 선택한 언어로, 번역된 텍스트를 반환하도록 구현
+  - 외국어 -> 한국어 번역 API
+
+- POST 메소드를 활용, AWS translate를 사용하여 유저가 입력한 텍스트를 한국어로, 번역된 텍스트를 반환하도록 구현
+  - 날씨 정보 API
+
+- POST 메소드를 활용, openWeatherMap API를 호출하여 선택한 위치의 날씨정보를 반환하도록 구현
+  - gemini를 활용한 날씨 비교 분석 API
+
+- POST 메소드를 활용, gemini API를 사용하여 사용자의 현재 위치 날씨 정보와 검색한 위치의 날씨정보를 비교 분석하여 반환하도록 구현
 
 
 
