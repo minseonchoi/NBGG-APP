@@ -68,19 +68,45 @@ github Actions로 git pull 자동화했습니다.
 ✏️ 화면 개발 [android-NBGG-App]
 -
 
+✉︎ 핵심 기능
 
-파일명으로 정리했습니다.
 
-✉︎ JAVA
-- ✉︎ ADAPTER
-  - 0
-- ✉︎ API
-  - 0
-- ✉︎ CONFIG
-  - 0
-- ✉︎ MODEL
-  - 0
+![image](https://github.com/user-attachments/assets/5545f6cb-7997-49cc-baa6-c1fe92d4bd50)
 
+1. 외교부 오픈 API를 통한 해외 정보 제공
+- 화면
+<p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/d7726a30-1c6e-4369-949e-f440dd5dcf09">
+</p>
+
+- 사용자는 정보가 필요한 국가를 검색하거나 선택할 수 있습니다.
+- 사용자는 해당 국가의 기본 정보, 여행 경보, 입국 허가 요건과 현지 연락처를 확인할 수 있습니다.
+
+2. AWS Translate 를 사용한 번역기능
+- 화면
+<div>
+  <p align="center">
+    <img width="200" src="https://github.com/user-attachments/assets/de16ce59-f19f-4671-bb1e-2f308d7dd878">
+    <img width="200" src="https://github.com/user-attachments/assets/96b6fa71-8de2-4b03-adc1-b013b68a2f61">
+  </p>
+</div>
+
+- 입국심사 예상 질문의 답변을 직접 작성해서 원하는 언어로 번역합니다.
+- 마이크 접근을 허용하여 대화 형식으로 한 화면에서 사용자와 외부 사용자의 대화를 번역합니다.
+
+3. OpenWeather API 와 Gemini 인공지능을 활용한 선택한 지역 날씨와 현재 위치 날씨 
+- 화면
+<div>
+  <p align="center">
+    <img width="200" src="https://github.com/user-attachments/assets/576ea7c6-c07a-4cb2-b455-738b39467954">
+    <img width="200" src="https://github.com/user-attachments/assets/315c1d74-48ab-410f-9e97-064e477e0ccc">
+    <img width="200" src="https://github.com/user-attachments/assets/4e1dce45-fba4-4679-b348-e83664b2254e">
+  </p>
+</div>
+
+- 처음 앱을 들어가면 현재 위치를 가져와 현재 위치의 날씨 정보를 전달합니다.
+- 사용자는 궁금한 전세계 날씨를 지도를 보고 선택하거나 검색할 수 있습니다.
+- 선택한 지역의 날씨를 가져오고 인공지능을 사용해 현재위치와 검색한 위치의 날씨를 비교해서 설명해줍니다.
 
 
 
@@ -99,6 +125,10 @@ github Actions로 git pull 자동화했습니다.
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
 
+✏️ 서버 아키텍처
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9f340e5-e825-4416-8f10-d7e9439e3835">
+</p>
 
 
 ✏️ 사용한 언어
